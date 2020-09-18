@@ -1,5 +1,5 @@
 ---
-title: "Let's make fetch() as Comfortable as axios()"
+title: "Let's make fetch() as Good as axios()"
 description: "Let's use the decorator pattern and design fetch() to be comfortable as axios() in performing HTTP requests."
 published: "2020-09-22T08:00Z"
 modified: "2020-09-22T08:00Z"
@@ -12,10 +12,9 @@ commentsThreadId: fetch-comfortable-as-axios
 ---
 
 ```toc
-
 ```
 
-## 1. What is a decorator
+## 1. Refresher on decorator pattern
 
 ## 2. Request timeout
 
@@ -23,7 +22,7 @@ commentsThreadId: fetch-comfortable-as-axios
 
 ## 4. Cancel a request
 
-## 5. Automatic transformation to JSON
+## 5. Transform to JSON
 
 ## 6. Default headers
 
