@@ -234,7 +234,7 @@ isEmpty(undefined);         // => true
 
 The strict equality operator determines whether a variable is null: `variable === null`.  
 
-`typoef` operator is useful to determine the type of a variable (number, string, boolean). However, `typeof` is misleading in case of `null`: `typeof null` evaluates to `'object'`.  
+`typeof` operator is useful to determine the type of a variable (number, string, boolean). However, `typeof` is misleading in case of `null`: `typeof null` evaluates to `'object'`.  
 
 `null` and `undefined` are somehow equivalent, still, `null` represents a missing object, while `undefined` uninitialized state.  
 
